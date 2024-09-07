@@ -24,3 +24,5 @@ All sounds are made from scratch either recorded or synthesized by me.
 # License
 You are able to use the samples for anything for free!
 If you modify the sample pack and want to publish your modification, feel free to do it, but it should be **free** and have the **same license** as this one!
+
+As for the example songs, they have the Creative Commons Attribution 4.0 license
