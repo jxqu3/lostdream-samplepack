@@ -2,7 +2,7 @@
 ![LostDream](lostdream.png)
 A samplepack made by JXQU3!
 
-**DOWNLOAD:** ![Click](https://github.com/jxqu3/lostdream-samplepack/archive/refs/heads/master.zip) 
+**DOWNLOAD:** [Click](https://github.com/jxqu3/lostdream-samplepack/archive/refs/heads/master.zip) 
 
 My YouTube: https://www.youtube.com/@JXQU3
 My Spotify: https://open.spotify.com/artist/2pdUGHioFEsL9VTCCaYt03
