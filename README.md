@@ -15,11 +15,9 @@ This sample pack includes:
 - Midi Melodies
 - Synth One-Shots
 - Recorded One-Shots
+- Effects
 
-The sounds are really dry (no/little reverb/delay, etc...) to allow you to add your own effects without them clashing with the samples.
-
-All sounds are made from scratch either recorded or synthesized by me.
-
+Most sounds are really dry (no/little reverb/delay, etc...) to allow you to add your own effects.
 
 # License
 You are able to use the samples for anything for free!
